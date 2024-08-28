@@ -1,4 +1,4 @@
-![logo](https://github.com/NotAyanXDD/NotAyanXDD/blob/main/README.md)
+![logo](https://github.com/NotAyanXDD/NotAyanXDD/blob/main/images.jpeg)
 
 <h1 align="center">Hi 👋, I'm NotAyanXDD</h1>
 <h3 align="center">A passionate backend developer from India</h3>
