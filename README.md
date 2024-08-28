@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm NotAyanXDD</h1>
 <h3 align="center">A passionate backend developer from India</h3>
-<img src="https://media.giphy.com/media/aGeePr7nv6ra8/giphy.gif" width="300px" align="right" alt="Image Cannot be found due to network issue">
+<img src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif" width="300px" align="right" alt="Image Cannot be found due to network issue">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notayanxdd&label=Profile%20views&color=0e75b6&style=flat" alt="notayanxdd" /> </p>
 
 - 🔭 I’m currently working on **Pterodactyl Panel Setup, optimization & configuration.**
