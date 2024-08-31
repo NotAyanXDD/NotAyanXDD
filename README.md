@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Pterodactyl Panel Setup, optimization & configuration.**
 
-- 🌱 I’m currently learning ** PHP,react.js, SQL,& web development.**
+- 🌱 I’m currently learning **PHP,react.js, SQL,& web development.**
 
 - 💬 Ask me about **HTML, CSS, JS, C++**
 
