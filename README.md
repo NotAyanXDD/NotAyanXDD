@@ -5,9 +5,8 @@
 <img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" width="300px" align="right" alt="Image Cannot be found due to network issue">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notayanxdd&label=Profile%20views&color=0e75b6&style=flat" alt="notayanxdd" /> </p>
 
-- 🔭 I’m currently working on **Pterodactyl Panel Setup, optimization & configuration.**
-
-- 🌱 I’m currently learning **PHP, React.js, SQL, & web development.**
+- 🔭 I’m currently working on **Freelancing, Js, c++**
+- 🌱 I’m currently learning **Freelancing, PHP, React.js, & web development.**
 
 - 💬 Ask me about **HTML, CSS, JS, C++**
 
